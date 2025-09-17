@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "$2a$10$wK1i.K4vP3OQyV5V7k8W.p/Z6W3pQy8V.S7",
+      "email": "ahmedhassansalem12345@gmail.com",
+      "role": "admin"
+    }
+  ]
+}
